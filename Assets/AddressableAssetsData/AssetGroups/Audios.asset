@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audios
+  m_EditorClassIdentifier: 
+  m_GroupName: Audios
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e96e2709a8f95db4c9f93388a72241c2
+  m_SerializeEntries:
+  - m_GUID: 0d1ec1bdad3005945aa1ca6f90ace5b4
+    m_Address: Audios/Game Over/Game Over 57
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game Over Audio
+  - m_GUID: 7a2dc5a3de28e03449b82a2a122658db
+    m_Address: Audios/Game Over/Game Over 32
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game Over Audio
+  - m_GUID: 49eb1ee9783159146b2f0788bdc3fae9
+    m_Address: Audios/Game Over/Game Over 40
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game Over Audio
+  - m_GUID: e4e42d5bb9c3a314c84da433159c2b11
+    m_Address: Audios/Game Over/Game Over 38
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game Over Audio
+  - m_GUID: dc719d908c91931448d28f716ca929fa
+    m_Address: Audios/Game Over/Game Over 41
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Game Over Audio
+  - m_GUID: 0e6f22ff89dedbd45a052b9cadd9a6fb
+    m_Address: Audios/BGM/BGM_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 8f309c6e79cbab74a9ce5b7e015030fc
+    m_Address: Audios/BGM/BGM_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 537ad5785e05ae742902059fbbae1835
+    m_Address: Audios/BGM/BGM_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: c68e6087f6f544b47ab7e0a0da9983a5
+    m_Address: Audios/BGM/BGM_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: c9c3541d567b0e8459bfce3950158743
+    m_Address: Audios/BGM/BGM_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: ec0f32e463d74fd4ab1a08196af2a951
+    m_Address: Audios/BGM/BGM_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 9758f9763d14a844e95a398f5fe7f689
+    m_Address: Audios/BGM/BGM_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 10005fcd7796d8b43bfb24b6ea279a6f
+    m_Address: Audios/BGM/BGM_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 85545e25c7c20844eb4170365f46c70a
+    m_Address: Audios/BGM/BGM_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 57b7d094032c82f498abf4d18cc80562
+    m_Address: "Audios/\uC2A4\uD0C0\uD2B8/Game Starting 59"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Start Audio
+  - m_GUID: c544a150968c8b84a8b7f6b20584d14f
+    m_Address: "Audios/\uC2A4\uD0C0\uD2B8/Game Starting 54"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Start Audio
+  - m_GUID: e578fda7b1e574d49a1e5308421a2ed4
+    m_Address: "Audios/\uC2A4\uD0C0\uD2B8/Game Starting 57"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Start Audio
+  - m_GUID: d4d4c2abbda5ee447a5df2538184504d
+    m_Address: "Audios/\uC2A4\uD0C0\uD2B8/Game Starting 5"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Start Audio
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f1753d8631cea0942a1d0f7fd1c9bf64, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3bd69a85be35d664ba821652d322d5e9, type: 2}
+    - {fileID: 11400000, guid: 17271aedfee549a498b01c2ef9cd0611, type: 2}
